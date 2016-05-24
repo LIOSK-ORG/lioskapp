@@ -1,5 +1,5 @@
 # lioskapp
-Boilerplate to kick start new LIOSK app.
+Boilerplate to kick start new LIOSK app using Angular2 and Meteor. 
 
 ## Features
 
